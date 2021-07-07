@@ -1,0 +1,78 @@
+[
+    {
+        "package": "golem",
+        "url": "https://github.com/ThinkR-open/golem"
+    },
+    {
+        "package": "thinkr",
+        "url": "https://github.com/ThinkR-open/thinkr"
+    },
+    {
+        "package": "attachment",
+        "url": "https://github.com/ThinkR-open/attachment"
+    },
+    {
+        "package": "togglr",
+        "url": "https://github.com/ThinkR-open/togglr"
+    },
+    {
+        "package": "gitdown",
+        "url": "https://github.com/ThinkR-open/gitdown"
+    },
+    {
+        "package": "rtodoist",
+        "url": "https://github.com/ThinkR-open/rtodoist"
+    },
+    {
+        "package": "shinipsum",
+        "url": "https://github.com/ThinkR-open/shinipsum"
+    },
+    {
+        "package": "remedy",
+        "url": "https://github.com/ThinkR-open/remedy"
+    },
+    {
+        "package": "fcuk",
+        "url": "https://github.com/ThinkR-open/fcuk"
+    },
+    {
+        "package": "rusk",
+        "url": "https://github.com/ThinkR-open/rusk"
+    },
+    {
+        "package": "spongecake",
+        "url": "https://github.com/ThinkR-open/spongecake"
+    },
+    {
+        "package": "fusen",
+        "url": "https://github.com/ThinkR-open/fusen"
+    },
+    {
+        "package": "checkhelper",
+        "url": "https://github.com/ThinkR-open/checkhelper"
+    },
+    {
+        "package": "devindocker",
+        "url": "https://github.com/ThinkR-open/devindocker"
+    },
+    {
+        "package": "testdown",
+        "url": "https://github.com/ThinkR-open/testdown"
+    },
+    {
+        "package": "bank",
+        "url": "https://github.com/ThinkR-open/bank"
+    },
+    {
+        "package": "chameleon",
+        "url": "https://github.com/ThinkR-open/chameleon"
+    },
+    {
+        "package": "fakir",
+        "url": "https://github.com/ThinkR-open/fakir"
+    },
+    {
+        "package": "gitlabr",
+        "url": "https://github.com/statnmap/gitlabr"
+    }
+]
