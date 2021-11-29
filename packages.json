@@ -74,5 +74,9 @@
     {
         "package": "gitlabr",
         "url": "https://github.com/statnmap/gitlabr"
+    },
+    {
+        "package": "thinkrtemplate",
+        "url": "https://github.com/ThinkR-open/thinkrtemplate"
     }
 ]
