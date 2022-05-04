@@ -78,5 +78,9 @@
     {
         "package": "thinkrtemplate",
         "url": "https://github.com/ThinkR-open/thinkrtemplate"
+    },
+    {
+        "package": "covrpage",
+        "url": "https://github.com/yonicd/covrpage"
     }
 ]
