@@ -82,5 +82,9 @@
     {
         "package": "covrpage",
         "url": "https://github.com/yonicd/covrpage"
+    },
+    {
+        "package": "tutor",
+        "url": "https://github.com/ThinkR-open/tutor"
     }
 ]
