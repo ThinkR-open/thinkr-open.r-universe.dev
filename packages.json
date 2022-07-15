@@ -89,7 +89,8 @@
     },
     {
         "package": "tidyversedashboard",
-        "url": "https://github.com/ThinkR-open/tidyversedashboard"
+        "url": "https://github.com/ThinkR-open/tidyversedashboard",
+        "branch": "more-options"
     },
     {
         "package": "emo",
