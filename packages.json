@@ -95,5 +95,13 @@
     {
         "package": "emo",
         "url": "https://github.com/hadley/emo"
+    },
+    {
+        "package": "glouton",
+        "url": "https://github.com/ColinFay/glouton"
+    },
+    {
+        "package": "brochure",
+        "url": "https://github.com/ColinFay/brochure"
     }
 ]
