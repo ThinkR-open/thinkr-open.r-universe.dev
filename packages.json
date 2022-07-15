@@ -90,5 +90,9 @@
     {
         "package": "tidyversedashboardr",
         "url": "https://github.com/ThinkR-open/tidyversedashboard"
+    },
+    {
+        "package": "emo",
+        "url": "https://github.com/hadley/emo"
     }
 ]
