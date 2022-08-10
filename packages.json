@@ -76,6 +76,10 @@
         "url": "https://github.com/statnmap/gitlabr"
     },
     {
+        "package": "arpr",
+        "url": "https://github.com/statnmap/arpr"
+    },
+    {
         "package": "thinkrtemplate",
         "url": "https://github.com/ThinkR-open/thinkrtemplate"
     },
