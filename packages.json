@@ -112,4 +112,8 @@
         "package": "inca3",
         "url": "https://github.com/ThinkR-open/inca3"
     },
+    {
+        "package": "cranology",
+        "url": "https://github.com/ThinkR-open/cranology"
+    }
 ]
