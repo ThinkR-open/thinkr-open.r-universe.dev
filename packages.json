@@ -107,5 +107,9 @@
     {
         "package": "brochure",
         "url": "https://github.com/ColinFay/brochure"
-    }
+    },
+    {
+        "package": "inca3",
+        "url": "https://github.com/ThinkR-open/inca3"
+    },
 ]
