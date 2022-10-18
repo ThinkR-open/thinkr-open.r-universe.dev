@@ -1,7 +1,7 @@
 
 # Packages for the ThinkR Universe 
 
-This repo host the `package.json` configuration file used to build the ThinkR r-universe.
+This repo host the `package.json` configuration file used to build the [ThinkR r-universe](nkr-open.r-universe.dev/).
 
 ## Adding a new package
 
