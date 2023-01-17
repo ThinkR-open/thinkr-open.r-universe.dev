@@ -115,5 +115,9 @@
     {
         "package": "cranology",
         "url": "https://github.com/ThinkR-open/cranology"
+    },
+    {
+        "package": "mariobox",
+        "url": "https://github.com/ThinkR-open/mariobox"
     }
 ]
