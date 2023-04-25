@@ -119,5 +119,9 @@
     {
         "package": "mariobox",
         "url": "https://github.com/ThinkR-open/mariobox"
-    }
+    },
+    {
+        "package": "rosm",
+        "url": "https://github.com/paleolimbot/rosm"
+    }    
 ]
