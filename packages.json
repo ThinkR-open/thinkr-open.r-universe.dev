@@ -123,5 +123,9 @@
     {
         "package": "rosm",
         "url": "https://github.com/paleolimbot/rosm"
-    }    
+    },
+    {
+        "package": "w3css",
+        "url": "https://github.com/ThinkR-open/w3css"
+    }       
 ]
