@@ -68,6 +68,10 @@
         "url": "https://github.com/ThinkR-open/inca3"
     },
     {
+        "package": "lozen",
+        "url": "https://github.com/ThinkR-open/lozen"
+    },
+    {
         "package": "mariobox",
         "url": "https://github.com/ThinkR-open/mariobox"
     },
