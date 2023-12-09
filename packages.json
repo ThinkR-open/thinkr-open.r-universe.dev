@@ -68,6 +68,10 @@
         "url": "https://github.com/ThinkR-open/inca3"
     },
     {
+        "package": "lightparser",
+        "url": "https://github.com/ThinkR-open/lightparser"
+    },
+    {
         "package": "lozen",
         "url": "https://github.com/ThinkR-open/lozen"
     },
