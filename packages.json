@@ -120,11 +120,6 @@
         "url": "https://github.com/ThinkR-open/thinkrtemplate"
     },
     {
-        "package": "tidyversedashboard",
-        "url": "https://github.com/ThinkR-open/tidyversedashboard",
-        "branch": "more-options"
-    },
-    {
         "package": "togglr",
         "url": "https://github.com/ThinkR-open/togglr"
     },
