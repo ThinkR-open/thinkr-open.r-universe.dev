@@ -130,5 +130,9 @@
     {
         "package": "w3css",
         "url": "https://github.com/ThinkR-open/w3css"
+    },
+    {
+        "package": "bootstrict",
+        "url": "https://github.com/ThinkR-open/bootstrict"
     }
 ]
