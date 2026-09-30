@@ -134,5 +134,9 @@
     {
         "package": "bootstrict",
         "url": "https://github.com/ThinkR-open/bootstrict"
+    },
+    {
+        "package": "pw",
+        "url": "https://github.com/ThinkR-open/pw"
     }
 ]
